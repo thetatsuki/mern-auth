@@ -1,11 +1,11 @@
 {
-    "port": 5000,
-    "mongoUri": "mongodb+srv://tatsuki:okey2001@cluster0.cteqn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "port": "",
+    "mongoUri": "",
 
 
-    "ACTIVATION_TOKEN_SECRET": "okey2001",
-    "ACCES_TOKEN_SECRET": "thegaliah",
-    "REFRESH_TOKEN_SECRET": "tatsuki",
+    "ACTIVATION_TOKEN_SECRET": "",
+    "ACCES_TOKEN_SECRET": "",
+    "REFRESH_TOKEN_SECRET": "",
 
     
     "CLIENT_URL": "http://localhost:3000"
